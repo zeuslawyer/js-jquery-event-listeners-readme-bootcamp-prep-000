@@ -8,7 +8,7 @@ function getIt(){
 
 
 function frameIt(){
-  $('#tasty').on('load', function(e){
+  $('.tasty').on('load', function(e){
     
   })
 }
